@@ -5,13 +5,14 @@ The goal of this EV3 project is to bring four different objects from four differ
 
 ## Building the Robot
 
-**Materials**
+**Materials:**
 - LEGO EV3 Robotics package
 - Touch sensor
 - Ultrasonic sensor
 - Gyro sensor
 - Color sensor
 
+**Instructions:**
 1. We followed the instructions in the box to create a basic robot consisting of two motorized wheels and a motorized arm.
 2. We added the Gyro sensor and Touch sensor at the top of the base, facing upwards.
 3. The Ultrasonic sensor is at the front of the robot. It is placed as low as possible to sense objects precisely.
