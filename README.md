@@ -1,7 +1,5 @@
 # EV3-Final-Project
-Olivia Roh & Sherry Lu
-
-February 2021
+**Olivia Roh & Sherry Lu // February 2021**
 
 The goal of this EV3 project is to bring four different objects from four different locations to the 'home' area.
 
