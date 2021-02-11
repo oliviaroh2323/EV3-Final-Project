@@ -21,4 +21,8 @@ The goal of this EV3 project is to bring four different objects from four differ
 
 # Coding
 We coded our EV3 in Python.
+
 To set up our EV3, we followed the steps in [this](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3) website.
+
+We used Visual Studio Code to do everything.
+Our code can be found [here]()
