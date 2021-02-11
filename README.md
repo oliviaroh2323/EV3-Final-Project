@@ -7,7 +7,7 @@ The goal of this EV3 project is to bring four different objects from four differ
 
 # Building the Robot
 
-//Materials//
+*materials*
 - LEGO EV3 Robotics package
 - Touch sensor
 - Ultrasonic sensor
